@@ -1,0 +1,54 @@
+html, body {
+    margin: 0;
+}
+
+nav{
+background-color: brown ;
+display: flex;
+justify-content: end;
+}
+
+ul li{
+
+display: flex;
+}
+
+
+
+#presentation{
+
+    display: flex;
+    width: 100%;
+    height: 50%;
+    margin-top: 175px;
+    display: flex;
+    gap: 5%;
+}
+
+.ryad{
+    background-color: rgb(86, 225, 121);
+    
+}
+
+#presentation img{
+    width: 50%;
+    justify-content: end;
+}
+
+h1{
+
+    margin: 3% ;
+}
+
+p{
+
+    margin: 3%;
+}
+
+.competences{
+    display: flex;
+}
+
+#avis{
+display: flex;
+}
